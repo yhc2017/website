@@ -629,6 +629,26 @@
             </li>
             <li>
                 <a href="#">
+                <div class="ctl">
+                    <img src="images/20170501044008834.bmp">
+                    <h3>张屹</h3>
+                    <p>主任</p>
+                </div>
+                <button type="button" class="am-btn am-btn-primary">进入专栏</button>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                <div class="ctl">
+                     <img src="images/20170501044022350.jpg">
+                    <h3>黄友谦</h3>
+                    <p>教授</p>
+                </div>
+                <button type="button" class="am-btn am-btn-primary">进入专栏</button>
+                </a>
+            </li>
+            <li>
+                <a href="#">
                     <div class="ctl">
                     <img src="images/20170501044038374.bmp">
                     <h3>侯广坤</h3>

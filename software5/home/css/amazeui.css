@@ -2058,6 +2058,7 @@ th {
   margin-bottom: 1.6rem;
   border-spacing: 0;
   border-collapse: separate;
+  border: none;
 }
 .am-table > thead > tr > th,
 .am-table > tbody > tr > th,
@@ -2068,7 +2069,7 @@ th {
   padding: 0.7rem;
   line-height: 1.6;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+  /*border-top: 1px solid #ddd;*/
 }
 .am-table > thead > tr > th {
   vertical-align: bottom;
@@ -2083,11 +2084,11 @@ th {
   border-top: 0;
 }
 .am-table > tbody + tbody tr:first-child td {
-  border-top: 2px solid #ddd;
+  /*border-top: 2px solid #ddd;*/
 }
 /* Bordered version */
 .am-table-bordered {
-  border: 1px solid #ddd;
+  /*border: 1px solid #ddd;*/
   border-left: none;
 }
 .am-table-bordered > thead > tr > th,
@@ -2112,7 +2113,7 @@ th {
 /* Border-radius version */
 .am-table-radius {
   border: 1px solid #ddd;
-  border-radius: 2px;
+  /*border-radius: 2px;*/
 }
 .am-table-radius > thead > tr:first-child > th:first-child,
 .am-table-radius > thead > tr:first-child > td:first-child {
@@ -2138,11 +2139,11 @@ th {
 }
 .am-table-radius > tbody > tr:last-child > th:first-child,
 .am-table-radius > tbody > tr:last-child > td:first-child {
-  border-bottom-left-radius: 2px;
+  /*border-bottom-left-radius: 2px;*/
 }
 .am-table-radius > tbody > tr:last-child > th:last-child,
 .am-table-radius > tbody > tr:last-child > td:last-child {
-  border-bottom-right-radius: 2px;
+  /*border-bottom-right-radius: 2px;*/
 }
 /* Zebra-striping */
 .am-table-striped > tbody > tr:nth-child(odd) > td,

@@ -2438,3 +2438,6 @@ margin-right: 50px;
 body{
 	background: #f6f4f4;
 }
+.c li{
+	background-color: rgba(0,0,0,0);
+}

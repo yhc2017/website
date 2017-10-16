@@ -1,5 +1,5 @@
 <?php        include "../public/conn.php";
-        $a_id = $_GET['id'];
+        $a_id = 125;
         $sql = mysqli_query($conn, "select a_title, a_time from article where a_id = $a_id;");
         $res = mysqli_fetch_array($sql);
         $content = $res["a_title"].".txt";

@@ -437,7 +437,8 @@ $res1 = mysqli_fetch_array($sql1);
 </div>
 
 <div class="part-all gray-li" style="margin: auto">
-<div class="customer  am-container-1 am-u-sm-12 am-u-md-12 am-u-lg-12">
+    <div class="am-container-1">
+<div class="customer   am-u-sm-12 am-u-md-12 am-u-lg-12">
     <div class="part-title">
         <a href="team.php">
             <i class="am-icon-users part-title-i"></i>
@@ -446,6 +447,7 @@ $res1 = mysqli_fetch_array($sql1);
         </a>
     </div>
 </div>
+    </div>
 
 <div id="category_top" style="background-image: url(images/zlbg.png); height: 370px;" class="am-u-sm-12 am-u-md-12 am-u-lg-12">
     <div class="am-container-1  am-slider " data-am-flexslider  >
